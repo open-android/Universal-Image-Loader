@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_error.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-ldpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_stub.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-ldpi\\ic_stub.png"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_empty.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-ldpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

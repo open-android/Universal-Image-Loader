@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_gallery_image.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\item_gallery_image.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\ac_complex.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\ac_complex.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_gallery.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\fr_image_gallery.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_pager.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\fr_image_pager.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\widget.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_image.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\item_list_image.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_grid_image.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\item_grid_image.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\ac_home.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\ac_home.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_grid.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\fr_image_grid.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\fr_image_list.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\fr_image_list.xml"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\layout\\item_pager_image.xml",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\layout\\item_pager_image.xml"
+    }
+]

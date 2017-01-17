@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_empty.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-hdpi\\ic_empty.png"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_error.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-hdpi\\ic_error.png"
+    },
+    {
+        "merged": "E:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_stub.png",
+        "source": "E:\\work\\my\\Universal-Image-Loader2\\sample\\src\\main\\res\\drawable-hdpi\\ic_stub.png"
+    }
+]

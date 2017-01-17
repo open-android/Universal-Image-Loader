@@ -1,0 +1,7 @@
+#Tue Jan 17 15:01:59 CST 2017
+base.0=E\:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_715cbc96d468e7f0b0e4a755db6c1c2129dfc0da
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_61ad7456528a4cec57e82e7b9c764c935512298e\\classes.dex
+base.1=E\:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_61ad7456528a4cec57e82e7b9c764c935512298e
+file.0=E\:\\work\\my\\Universal-Image-Loader2\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_715cbc96d468e7f0b0e4a755db6c1c2129dfc0da\\classes.dex
