@@ -2,6 +2,7 @@
 开源项目地址:[https://github.com/open-android/Universal-Image-Loader](https://github.com/open-android/Universal-Image-Loader)
 # 运行效果
   ![](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png)
+  
   * 更多干货请下载app
 
 
@@ -42,8 +43,15 @@
 						.displayer(new CircleBitmapDisplayer(Color.WHITE, 5)) //设置展示图片为圆角
 						.build();
 	  ImageLoader.getInstance().displayImage(IMAGE_URLS[position], holder.image, options);
-  ###在AndroidManifest.xml中配置网络权限
+  ### 在AndroidManifest.xml中配置网络权限
 
     <uses-permission android:name="android.permission.INTERNET" />
+    
+    
+* 详细的使用方法在DEMO里面都演示啦,如果你觉得这个库还不错,请赏我一颗star吧~~~
+
+* 欢迎关注微信公众号
+
+![](http://upload-images.jianshu.io/upload_images/4037105-8f737b5104dd0b5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)   
   
   
