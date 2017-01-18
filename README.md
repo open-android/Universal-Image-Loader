@@ -3,7 +3,7 @@
 # 运行效果
   ![](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png)
   
-  * 更多干货请下载app
+  * 爱生活,爱学习,更爱做代码的搬运工,分类查找更方便请下载黑马助手app
 
 
 ![黑马助手.png](http://upload-images.jianshu.io/upload_images/4037105-f777f1214328dcc4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -43,7 +43,8 @@
 						.displayer(new CircleBitmapDisplayer(Color.WHITE, 5)) //设置展示图片为圆角
 						.build();
 	  ImageLoader.getInstance().displayImage(IMAGE_URLS[position], holder.image, options);
-  ### 在AndroidManifest.xml中配置网络权限
+	  
+### 5. 在AndroidManifest.xml中配置网络权限
 
     <uses-permission android:name="android.permission.INTERNET" />
     
