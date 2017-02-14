@@ -1,5 +1,8 @@
 # 优秀的android图片加载框架Universal-image-loader
 开源项目地址:[https://github.com/open-android/Universal-Image-Loader](https://github.com/open-android/Universal-Image-Loader)
+
+ PS：如果觉得文章太长，你也可观看该课程的[视频](https://www.boxuegu.com/web/html/video.html?courseId=172&sectionId=8a2c9bed5a3a4c7e015a3bbffc6107ed&chapterId=8a2c9bed5a3a4c7e015a3ad76a12029c&vId=8a2c9bed5a3a4c7e015a3b0428540549&videoId=1E1712DA85A8B6A99C33DC5901307461)，亲，里面还有高清，无码的福利喔
+
 # 运行效果
   ![](https://github.com/nostra13/Android-Universal-Image-Loader/raw/master/UniversalImageLoader.png)
   
